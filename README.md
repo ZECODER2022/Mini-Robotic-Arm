@@ -1,6 +1,6 @@
 # **Mini Robotic Arm V1**
 
-**Parts list: (not complete)**
+**Parts List: (Not Complete)**
 
 - Ardunio Uno R4 Wifi: 1x
 - Micro Stepper motor: 1x
